@@ -1,3 +1,6 @@
+message = input(">")
+
+
 emoji = {
     ":)" : "😊",
     ":(" : "😞",
@@ -7,7 +10,6 @@ emoji = {
     ":|" : "😐"}
 
 
-message = input(">")
 
 words = message.split(" ")
 
